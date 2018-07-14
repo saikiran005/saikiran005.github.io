@@ -1,0 +1,72 @@
+body, html {
+	text-align: center;
+	background-image: url(bgimg.jpg);
+	background-position: center;
+	background-size: cover;
+	background-position: fixed;
+	height: 100%
+}
+.head1 {
+	margin: 90px;
+	font-family: 'Bangers', cursive;
+	font-size: 50px;
+
+}
+	
+.container {
+	text-align: center;
+	background-image: url(bg1.jpg);
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	height: 40%;
+}
+
+.container2 {
+	background-image: url(frsimg.jpg);
+	min-height: 400px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	min-height: 100px 400px;
+}
+
+
+h2 {
+	font-size: 40px;
+	color: white;
+	margin-top: 150px;
+	font-family: 'Orbitron', sans-serif;
+}
+
+img {
+	width: 500px;
+	height: 400px;
+	margin: 20px;
+	transition-duration: all 5s;
+}
+img:hover {
+	transform: scale(1.2);
+}
+.mix {
+	font-size: 35px;
+	text-align: center;
+	color: #454DE4;
+	font-family: 'Signika Negative', sans-serif;
+
+}
+.mit {
+	line-height: 30px;
+	word-spacing: 12px;
+	color: #833AE3;
+	font-size: 20px;
+	font-family: 'Dancing Script', cursive;
+}
+
+
+
+
+
+
